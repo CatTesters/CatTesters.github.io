@@ -1687,6 +1687,7 @@
 	}
 
 	p {
+		font-size: 20px;
 		margin: 0 0 2em 0;
 	}
 
@@ -1785,7 +1786,7 @@
 
 	blockquote {
 		border-left: solid 4px #c9c9c9;
-		font-style: italic;
+		/*font-style: italic;*/
 		margin: 0 0 2em 0;
 		padding: 0.5em 0 0.5em 2em;
 	}
@@ -2337,6 +2338,7 @@
 
 		.image.left, .image.right {
 			max-width: 40%;
+			width: 200px;
 		}
 
 			.image.left img, .image.right img {
